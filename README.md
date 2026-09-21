@@ -30,4 +30,3 @@ System runs from booking-service where you
 ```docker compose up --build``` in booking-service repo
 
 repos need to be same level in folder
-
